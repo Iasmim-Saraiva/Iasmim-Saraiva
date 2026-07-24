@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**Iasmim-Saraiva/Iasmim-Saraiva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science student at UFC.
 
-Here are some ideas to get you started:
+💻 Currently learning Java, C++ and Competitive Programming.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 Always learning and building new projects.
+
+## 🌱 Currently
+
+- Learning Java
+- Practicing Competitive Programming
+- Building personal projects and improving my problem-solving skills.
+- Improving my English
