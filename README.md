@@ -2,13 +2,11 @@
 
 🎓 Computer Science student at UFC.
 
-💻 Currently learning Java, C++ and Competitive Programming.
-
-📚 Always learning and building new projects.
+💻 Currently focused on backend development with Java and Spring Boot.
 
 ## 🌱 Currently
 
-- Learning Java
-- Practicing Competitive Programming
-- Building personal projects and improving my problem-solving skills.
-- Improving my English
+- Building backend projects with Java and Spring Boot
+- Studying data structures and algorithms
+- Practicing C/C++
+- Exploring new areas in Computer Science
